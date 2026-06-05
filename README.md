@@ -1,2 +1,2 @@
 # ClasseFila
-Uso de filas em Python com classes
+Uso de filas em Python com classes.
